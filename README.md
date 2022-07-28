@@ -1,3 +1,4 @@
+[![MasterHead](https://i.pinimg.com/originals/45/78/99/457899a0d3547aa829d41ac1031918ad.gif)](https://in.pinterest.com/harsharaghuwanshi094/)
 <h1 align="center">Hi 👋, I'm Harsh Raghuwanshi</h1>
 <h3 align="center">A passionate frontend developer or a competative coder from India I ❤ doing Theater.</h3>
 <img align="right" alt="Coding" width ="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
