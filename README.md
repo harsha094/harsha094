@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **harsharaghuwanshi094@gmail.com**
 
-- 📄 Know about my experiences [https://app.luminpdf.com/viewer/62dbaf25174b6fe6dd5850f8](https://app.luminpdf.com/viewer/62dbaf25174b6fe6dd5850f8)
+- 📄 Know about my experiences [https://app.luminpdf.com/viewer/62e7f8341dd7c224aff49c30](https://app.luminpdf.com/viewer/62e7f8341dd7c224aff49c30)
 
 - ⚡ Fun fact **I love to cook. My signature dish is homemade protein Khichdi.**
 
