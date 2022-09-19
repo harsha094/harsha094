@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshra19107484" target="blank"><img src="https://img.shields.io/twitter/follow/harshra19107484?logo=twitter&style=for-the-badge" alt="harshra19107484" /></a> </p>
 
-- 🔭 I’m currently working on **Salesforce Developer intern program**
+- 🔭 I’m currently looking for **Software Developer intern**
 
 - 🌱 I’m currently learning **Apex, Reactjs, Data visualization**
 
