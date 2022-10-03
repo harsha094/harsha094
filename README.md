@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **harsharaghuwanshi094@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1EFJGQsZvwM8oKxwseBVY_Db1V4B_xY85/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Yi_xz6PGtwFAqJIZPJbF8Y5dHOmVDD5t/view?usp=sharing)
 
 - ⚡ Fun fact **I love to cook. My signature dish is homemade protein Khichdi.**
 
