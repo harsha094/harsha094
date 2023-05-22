@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/harshra19107484" target="blank"><img src="https://img.shields.io/twitter/follow/harshra19107484?logo=twitter&style=for-the-badge" alt="harshra19107484" /></a> </p>
 
-- 🔭 I’m currently looking for **Software Developer intern**
+- 🔭 I’m currently looking for **Software Engineer**
 
-- 🌱 I’m currently learning **Apex, Reactjs, Data visualization**
+- 🌱 I’m currently learning **PHP, Laravel, Apex, Reactjs, Data visualization**
 
 - 👨‍💻 All of my projects are available at [https://github.com/harsha094](https://github.com/harsha094)
 
