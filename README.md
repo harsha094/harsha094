@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/45/78/99/457899a0d3547aa829d41ac1031918ad.gif)](https://in.pinterest.com/harsharaghuwanshi094/)
 <h1 align="center">Hi 👋, I'm Harsh Raghuwanshi</h1>
-<h3 align="center">A passionate frontend developer or a competative coder from India I ❤ doing Theater.</h3>
+<h3 align="center">A passionate Python developer or a competitive coder from India I ❤ doing Theater.</h3>
 <img align="right" alt="Coding" width ="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsha094&label=Profile%20views&color=0e75b6&style=flat" alt="harsha094" /> </p>
@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently looking for **Software Engineer**
 
-- 🌱 I’m currently learning **PHP, Laravel, Apex, Reactjs, Data visualization**
+- 🌱 I’m currently learning **Python, Django, Apex, AI/ML, Data visualization**
 
 - 👨‍💻 All of my projects are available at [https://github.com/harsha094](https://github.com/harsha094)
 
-- 💬 Ask me about **PostgreSQL, CPP, DSA**
+- 💬 Ask me about **SQL, Python, DSA**
 
 - 📫 How to reach me **harsharaghuwanshi094@gmail.com**
 
