@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/harsha094](https://github.com/harsha094)
 
-- 💬 Ask me about **SQL, Python, DSA**
+- 💬 Ask me about **SQL, DSA, Anime**
 
 - 📫 How to reach me **harsharaghuwanshi094@gmail.com**
 
